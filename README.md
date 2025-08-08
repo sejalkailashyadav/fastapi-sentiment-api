@@ -1,1 +1,1 @@
-# fastapi-sentiment-api
+# fastapi-sentiment-apis
